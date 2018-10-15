@@ -1,0 +1,68 @@
+[
+    {
+        "bio":"I am a professional Customer Service Representative with over 6 years experience in handling multinational clients. My unique professional experience stems from years of providing excellent customer support creative problem solving and building customer loyalty" 
+    },
+
+    {
+        "university1": {
+            "name":"University of El Dorado",
+            "state":"Texas",
+            "batch":"class of 2013",
+            "programme":"Masters in Human Resource Management"
+        },
+
+        "university2": {
+            "name":"University of El Dorado",
+            "state":"Texas",
+            "batch":"class of 2013",
+            "programme":"Human Resources Association",
+            "position":"Vice President in 2012"
+        },
+
+        "university3": {
+            "name":"University of El Dorado",
+            "state":"Texas",
+            "batch":"class of 2010",
+            "programme":"Bachelors in Communication Arts",
+            "position":"Teachers Assistant of the Humanities Department"
+        }
+    },
+
+    {
+        "prof_experience1":
+        {
+            "designation":"Customer Service Manager",
+            "company":"Bijou Solutions Inc",
+            "state":"Chicago",
+            "duration":"2020 - present",
+            "role":"Motivated and improved the customer service department and its 25 staff members to propel them towards set goals"
+        },
+
+        "prof_experience2":
+        {
+            "designation":"Data Services Specialist",
+            "company":"24 Gold Lion Business Services Inc",
+            "state":"New York",
+            "duration":"2015-2019",
+            "role":"Developed, organized and tracked key performance metrics and company profiles for all employees for better corporate productivity and monitoring"
+        }
+    },
+
+    {
+        "personality":["Cheerful Disposition","Neat and Well Organized","Motivated by problem solving","Independent Worker","Works well with deadlines","Collaborative and efficient"]
+
+    },
+
+    {
+        "contact":
+        {
+            "address":"310 New Street",
+            "city":"Kings",
+            "state":"New York",
+            "country":"USA",
+            "email":"hello@reallygreatsite.com",
+            "website":"www.reallygreatsite.com",
+            "phone": 123456789
+        }
+    }
+]

@@ -1,0 +1,45 @@
+/* My custom css */
+
+body {
+	background-color: #c9dff71e
+
+}
+
+.flex-container {
+	flex-wrap: wrap;
+	float: right;
+	width: 60%;
+	border: 1px solid ;
+	border-radius: 50px;
+	margin-right: 5%;
+}
+
+.btn:hover {
+	text-transform: uppercase;
+}
+
+#info1 {
+	font-size: 23px;
+	margin: auto;
+	text-align: center;
+}
+
+ #edu1, #edu2, #edu3{
+	font-size: 18px;
+	margin: 10px 5px 2px 30px;
+	text-align: justify;
+}
+
+#exp1, #exp2 {
+	font-size: 18px;
+	margin: 8px 5px 2px 30px;
+	text-align: justify;
+}
+
+@media (max-width:651px) and (min-width:200px){
+	.flex-container{
+		width:100%;
+		margin:auto;
+		margin-bottom: 10%;
+	}
+}
